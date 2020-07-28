@@ -1,2 +1,5 @@
-# IISER-Kolkata-MS_thesis
-MS thesis 
+# IISER Kolkata MS thesis-Part of 5 years BS-MS (Physics Major) IISER Kolkata curriculum 
+# Number of people: Individual 
+# Tools Used: MATLAB
+# Description of the project:
+The project used MATLAB as a tool for Mathematical modelling( Two Company's Model) and create simulations to understand the origin of Life.
