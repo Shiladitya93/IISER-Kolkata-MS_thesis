@@ -4,7 +4,8 @@ Part of 5 years BS-MS (Physics Major) IISER Kolkata curriculum
 # Number of people: 
 Individual 
 
-# Duration: 1 year
+# Duration: 
+1 year
 
 # Tools Used:  
 MATLAB
