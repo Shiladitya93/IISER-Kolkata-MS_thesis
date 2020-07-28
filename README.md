@@ -1,7 +1,7 @@
 # IISER Kolkata MS thesis
 Part of 5 years BS-MS (Physics Major) IISER Kolkata curriculum (2017)
 
-# Title
+# Title:
 Simulation studies on Origin of Life ( MS thesis)
 
 # Supervisor:
