@@ -2,7 +2,7 @@
 Part of 5 years BS-MS (Physics Major) IISER Kolkata curriculum 
 
 # Supervisor:
-Professor Supratim Sengupta
+Professor Supratim Sengupta, IISER Kolkata
 
 # Number of people: 
 Individual 
