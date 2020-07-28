@@ -11,7 +11,7 @@ Professor Supratim Sengupta, IISER Kolkata
 Individual 
 
 # Duration: 
-1 year (2016-2017)
+1 year (2016 - 2017)
 
 # Tools Used:  
 MATLAB
