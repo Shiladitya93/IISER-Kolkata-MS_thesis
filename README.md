@@ -1,6 +1,9 @@
 # IISER Kolkata MS thesis
 Part of 5 years BS-MS (Physics Major) IISER Kolkata curriculum 
 
+# Supervisor:
+Professor Supratim Sengupta
+
 # Number of people: 
 Individual 
 
